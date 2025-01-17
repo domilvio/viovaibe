@@ -1,0 +1,193 @@
+body{
+  background-color:black;
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+  color:white;
+  text-indent:10px;
+  font-family:Times New Roman;
+  font-style:italic;
+}
+h1{
+  text-align:center;
+  color:DodgerBlue;
+  background-color:black;
+  border:5px double DodgerBlue;
+  position:fixed;
+  width:350px;
+  margin-top:-19px;
+}
+h3{
+  padding-top:100px;
+  text-indent:10px;
+}
+h4{
+  text-indent:10px;
+}
+h5{
+  font-size:20px;
+}
+#img1{
+  background-image:url("sintonia.jpeg");
+  background-position:center;
+  background-size:cover;
+  margin:auto;
+  width:300px;
+  height:160px;
+}
+#img2{
+  background-image:url("chelsea_dinorath.jpg");
+  background-position:center;
+  background-size:cover;
+  width:200px;
+  height:150px;
+}
+#img3{
+  background-image:url("transferir (34).jpeg");
+  background-position:center;
+  background-size:cover;
+  width:200px;
+  height:150px;
+}
+#img4{
+  background-image:url("images (13).jpeg");
+  background-position:center;
+  background-size:cover;
+  width:200px;
+  height:150px;
+}
+#img5{
+  background-image:url("transferir (40).jpeg");
+  background-position:center;
+  background-size:cover;
+  width:200px;
+  height:150px;
+}
+#img6{
+  background-image:url("transferir (37).jpeg");
+  background-position:center;
+  background-size:cover;
+  width:200px;
+  height:150px;
+}
+#img7{
+  background-image:url("homa_lay.jpeg");
+  background-position:center;
+  background-size:cover;
+  width:150px;
+  height:150px;
+  border-radius:100px;
+}
+#img8{
+  background-image:url("rema.jpeg");
+  background-position:center;
+  background-size:cover;
+  width:150px;
+  height:150px;
+  border-radius:100px;
+}
+#img9{
+  background-image:url("images (3).jpeg");
+  background-position:center;
+  background-size:cover;
+  width:150px;
+  height:150px;
+  border-radius:100px;
+}
+#img10{
+  background-image:url("images (4).jpeg");
+  background-position:center;
+  background-size:cover;
+  width:150px;
+  height:150px;
+  border-radius:100px;
+}
+#img11{
+  background-image:url("IMG_20230902_080900_035@-1569680936_044722.jpg");
+  background-position:center;
+  background-size:cover;
+  margin:auto;
+  width:200px;
+  height:300px;
+  border-radius:20px;
+}
+footer{
+  background-color:white;
+  width:360px;
+  height:700px;
+  color:DodgerBlue;
+}
+#nome{
+  text-align:center;
+}
+#a{
+  text-decoration:none;
+  border:5px double black;
+  border-radius:20px;
+  color:white;
+  margin-left:100px;
+  margin-top:60px;
+  padding-left:50px;
+  padding-right:50px;
+  padding-top:10px;
+  padding-bottom:10px;
+  background-color:DodgerBlue;
+}
+#destaque{
+  display:flex;
+  overflow-x:auto;
+  width:350px;
+  height:200px;
+}
+.centro{
+  margin-right:10px;
+}
+.centro_box{
+  margin-right:10px;
+  margin-bottom:30px;
+}
+.download{
+  text-decoration:none;
+  border:5px double black;
+  color:white;
+  background-color:DodgerBlue;
+  margin-left:60px;
+  margin-top:10px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:5px;
+  padding-bottom:5px;
+  border-radius:10px;
+}
+.downloads{
+  text-decoration:none;
+  border:5px double black;
+  color:white;
+  background-color:DodgerBlue;
+  margin-left:35px;
+  margin-top:10px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:5px;
+  padding-bottom:5px;
+  border-radius:10px;
+}
+#email{
+  border:10px double white;
+  background-color:DodgerBlue;
+  border-radius:20px;
+  text-decoration:none;
+  color:white;
+  margin-left:100px;
+  
+  padding-left:50px;
+  padding-right:50px;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+#box{
+  margin-top:20px;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+}
